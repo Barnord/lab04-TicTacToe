@@ -1,0 +1,4 @@
+C:\Users\gordn\Documents\projects\codefellows\401net\lab04-TicTacToe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\lab04-TicTacToe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\lab04-TicTacToe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.AssemblyInfo.cs
+C:\Users\gordn\Documents\projects\codefellows\401net\lab04-TicTacToe\Lab04_TicTacToe\Lab04_TicTacToe\obj\Debug\netcoreapp2.1\Lab04_TicTacToe.csproj.CoreCompileInputs.cache
